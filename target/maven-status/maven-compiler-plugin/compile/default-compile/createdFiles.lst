@@ -1,0 +1,14 @@
+io/pivotal/education/articulate/ArticulateApplication$TrustEverythingTrustManager.class
+io/pivotal/education/articulate/cloud/service/AttendeeWebServiceInfoCreator.class
+io/pivotal/education/articulate/controller/ArticulateController.class
+io/pivotal/education/articulate/ArticulateApplication$1.class
+io/pivotal/education/articulate/ArticulateApplication$TrustEverythingHostNameVerifier.class
+io/pivotal/education/articulate/controller/ArticulateRestController.class
+io/pivotal/education/articulate/service/AttendeeService$1.class
+io/pivotal/education/articulate/cloud/service/WebServiceInfo.class
+io/pivotal/education/articulate/model/Attendee$AttendeeBuilder.class
+io/pivotal/education/articulate/model/Attendee.class
+io/pivotal/education/articulate/ArticulateApplication$TrustEverythingClientHttpRequestFactory.class
+io/pivotal/education/articulate/service/AttendeeService.class
+io/pivotal/education/articulate/ArticulateApplication.class
+io/pivotal/education/articulate/service/EnvironmentHelper.class

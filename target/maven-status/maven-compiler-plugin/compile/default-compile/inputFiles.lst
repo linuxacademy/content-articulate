@@ -1,0 +1,8 @@
+/root/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/cloud/service/AttendeeWebServiceInfoCreator.java
+/root/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/ArticulateApplication.java
+/root/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/service/AttendeeService.java
+/root/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/controller/ArticulateRestController.java
+/root/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/controller/ArticulateController.java
+/root/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/service/EnvironmentHelper.java
+/root/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/model/Attendee.java
+/root/pcf-articulate-code/src/main/java/io/pivotal/education/articulate/cloud/service/WebServiceInfo.java
